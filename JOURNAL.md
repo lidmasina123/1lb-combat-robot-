@@ -78,3 +78,13 @@ then proseeded first rouf cading Started designing the frame
 <img width="890" height="712" alt="Screenshot 2026-06-13 031754" src="https://github.com/user-attachments/assets/144f1e83-0982-496f-aabe-e6d6cad4098e" />
 
 this took 1.2h
+
+
+learned how to make gears and make gear reduction for the arm that is 2.2to 1 then i complethed the arm mecanism!
+
+<img width="587" height="720" alt="Screenshot 2026-06-13 203638" src="https://github.com/user-attachments/assets/e50afdda-afe8-4731-ba69-8f34561a3f5a" />
+<img width="582" height="661" alt="Screenshot 2026-06-13 203612" src="https://github.com/user-attachments/assets/26476bb6-1e3f-4a50-9152-78daaf8214ae" />
+<img width="705" height="591" alt="Screenshot 2026-06-13 203551" src="https://github.com/user-attachments/assets/4ee66b51-7717-4b9a-a4dd-ea07d4c3b247" />
+<img width="733" height="547" alt="Screenshot 2026-06-13 200934" src="https://github.com/user-attachments/assets/f4af0c15-ca5b-42a3-bb26-38cd455a9a9d" />
+
+
