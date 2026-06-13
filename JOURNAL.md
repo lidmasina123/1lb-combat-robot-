@@ -4,10 +4,18 @@ description: "this is a 1lb combat robot that has a saw in the end of an arm to 
 created_at: "2026-06-12"
 
 
+        1LB COMBAT ROBOT
+
+
+
+
 the first think i did in this sesson was i researched the components
 
 i found that the best for my robots driwe woud be the Repeat Robotics "Compact 1806" 22mm Brushless Planetary Motor beacase i nned a lot of driwe power to push opponents
 https://palmbeachbots.com/products/repeat-robotics-compact-1806-22mm-brushless-planetary-motor-beetle-drive?_pos=10&_fid=868bf87e1&_ss=c
+
+for the battery  i am going to useGAONENG GNB LiHV 4S 15.2V 380mAh 90C XT30 LiPo Battery
+https://www.gaoneng.shop/products/gaoneng-gnb-lihv-4s-15.2v-380mah-90c-xt30-lipo-battery
 
 for the saw i am going to use Axisflying 2207.5 Brushless Motor it has a lot of power to wheight 
 https://www.aliexpress.com/item/1005006344056844.html?spm=a2g0o.productlist.main.11.25f67a02mWo3tW&algo_pvid=f8d8a67b-8067-45e9-b2da-e30630cc004d&pdp_ext_f=%7B%22order%22%3A%22179%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006344056844%7C_p_origin_prod%3A
@@ -29,7 +37,9 @@ https://palmbeachbots.com/products/repeat-robotics-am32-dual-brushless-drive-esc
 and the reciwer and remote i am going to be using flysky fs i6 since i already hawe this
 https://www.aliexpress.com/item/1005012028909932.html?spm=a2g0o.productlist.main.8.1ca01ab6PuMNtT&algo_pvid=730b2098-87f1-441e-bfcc-3eb222fd3d16&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012028909932%7C_p_origin_prod%3A
 
-this searching took about 1.5 h
+this searching took about 2 h
+
+
  then i proceedet to finding or desining the cad models for these components
 i found the files for the saw motor and driwe motor
 https://grabcad.com/library/pacer-2207-v2-motor-2
@@ -46,3 +56,25 @@ https://grabcad.com/library/repeat-am32-dual-brushless-drive-esc-1
 
 https://grabcad.com/library/fs2a-radio-receiver-afhds-2a-protocol-1
 
+and the battery i desined myself
+
+
+geting the cad files for each component an desining one took about 1.5h
+
+
+
+then i started the robots cad proces first step was  arange the motors and electronics
+
+
+<img width="556" height="418" alt="Screenshot 2026-06-13 025842" src="https://github.com/user-attachments/assets/d2dffae3-ea25-4697-a290-3b3b4240a094" />
+
+it took several tries but i settled on this beacase everything is very compact
+
+this took 1h
+
+then proseeded first rouf cading Started designing the frame
+
+
+<img width="890" height="712" alt="Screenshot 2026-06-13 031754" src="https://github.com/user-attachments/assets/144f1e83-0982-496f-aabe-e6d6cad4098e" />
+
+this took 1.2h
