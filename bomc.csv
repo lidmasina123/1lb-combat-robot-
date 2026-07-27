@@ -4,10 +4,9 @@ part,,price,quantity,
 driwe motors tangent 1406,https://palmbeachbots.com/products/repeat-robotics-tangent-drive-motor-1406-1500kv,18,2,36
 arm motor 16mm Brushed Planetary Motor,https://palmbeachbots.com/products/repeat-robotics-16mm-brushed-planetary-motor,17,1,17
 weapon motor repat 2307,https://www.aliexpress.com/item/1005007338658310.html?spm=a2g0o.productlist.main.22.d4237a02dQ5yp9&algo_pvid=b1700bf8-a632-48e6-8121-749553c9044c&pdp_ext_f=%7B%22order%22%3A%22188%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007338658310%7C_p_origin_prod%3A,15,1,15
-driwe esc,https://palmbeachbots.com/products/repeat-robotics-am32-dual-brushless-drive-esc-with-bec,40,1,40
+ esc,https://palmbeachbots.com/products/repeat-robotics-am32-dual-brushless-drive-esc-with-bec,40,2,80
 rc remote,https://palmbeachbots.com/products/flysky-fs-i4x-2-4ghz-4-channel-transmitter-with-receiver-afhds2a,52,1,52
 reciver,https://palmbeachbots.com/products/fs2a-4-channel-mini-receiver-afhds-2a-works-with-flysky-fs-i6,12,1,12
-esc arm,https://palmbeachbots.com/products/repeat-robotics-dual-brushed-esc-for-ant-drive?_pos=1&_fid=b14649b99&_ss=c,14,1,14
-esv weapon,https://palmbeachbots.com/products/repeat-robotics-am32-brushless-drive-esc-bi-directional,18,1,18
+
 ,,,,
-,,totoal,204,
+,,totoal,212,
