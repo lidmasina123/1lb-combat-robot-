@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wiering diagram.png" alt="Hamersaw wiring diagram" width="500">
+ 
 </p>
 
 <h1 align="center">Hamersaw</h1>
@@ -113,31 +113,7 @@ Everything needed to reproduce or reference this build lives in this repo.
 ---
 
 ## System Overview
-
-```
-                ┌─────────────────────────────┐
-                │         Battery             │
-                └───────────────┬─────────────┘
-                                 │
-                    ┌────────────────────────┐
-                    │   Dual AM32 ESC (RX)    │
-                    └───────┬─────────┬───────┘
-                            │         │
-              ┌─────────────┘         └─────────────┐
-              ▼                                      ▼
-     ┌─────────────────┐                   ┌───────────────────┐
-     │  Repeat 2307     │                   │  Tangent Drive     │
-     │  Drive Motor(s)  │                   │  1407 Weapon Motor │
-     └────────┬─────────┘                   └──────────┬─────────┘
-              │                                          │
-              ▼                                          ▼
-   ┌─────────────────────┐                   ┌───────────────────────┐
-   │ Gears → Drive Pods   │                   │ Hardox Vertical        │
-   │ → Nylon/Silicone Feet│                   │ Spinner Bar             │
-   └─────────────────────┘                   └───────────────────────┘
-```
-
----
+<img width="987" height="691" alt="image" src="https://github.com/user-attachments/assets/5408aaca-5803-4bbd-8444-04bbc5571209" />
 
 ## Roadmap
 
