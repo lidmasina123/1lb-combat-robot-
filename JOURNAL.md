@@ -4,7 +4,8 @@ This session, I cleaned up my repository by adding the source files and making a
 
 I probably made the wiring diagram the hard way I created it in CAD using sketches and extrusions instead of a dedicated wiring tool
 
-![Robot wiring diagram made in CAD](journal-images/zagitis-232810.png)
+<img width="642" height="445" alt="Screenshot 2026-11-09 232810" src="https://github.com/user-attachments/assets/9b8ebae9-d1bf-415c-9e13-091b13b409a3" />
+
 
 # all brushles
 
@@ -13,8 +14,7 @@ I probably made the wiring diagram the hard way I created it in CAD using sketch
 I decided to make the robot fully brushless. This meant that the arm motor also had to be brushless.
 
 For the arm, I used a 1204 brushless motor coupled to a 16 mm planetary gearbox. I have used this motor in some of my previous robots, so I know it is reliable and should provide enough power for the arm.
-
-![Brushless arm motor next to the arm gearbox](journal-images/zagitis-232451.png)
+<img width="381" height="349" alt="Screenshot 2026-11-09 232451" src="https://github.com/user-attachments/assets/0f764110-9be7-4e64-8dbf-0eb195cd4763" />
 
 # ading the deteils
 
@@ -22,7 +22,8 @@ For the arm, I used a 1204 brushless motor coupled to a 16 mm planetary gearbox.
 
 This session, I made space for the wires, added bearings to the arm gears, and integrated the switch into the design.
 
-![Arm gears and mounting details inside the chassis](journal-images/zagitis-232016.png)
+<img width="650" height="288" alt="Screenshot 2026-11-09 232016" src="https://github.com/user-attachments/assets/097747db-2a35-4bf1-b239-b333cf1da9d3" />
+
 
 # ground game
 
@@ -32,7 +33,8 @@ Now I made the front configuration for horizontal spinners. This is known as a b
 
 The purpose of this design is to absorb hits from horizontal weapons
 
-![Front attachment for the horizontal-spinner configuration](journal-images/zagitis-231900.png)
+<img width="650" height="441" alt="Screenshot 2026-11-09 231900" src="https://github.com/user-attachments/assets/1908e043-556a-494a-990f-719d33d38d65" />
+
 
 # ground game
 
@@ -50,7 +52,8 @@ This session, I designed the wheels. They are very similar to the previous versi
 
 For traction, I am using 20A silicone because it is easily available to me and should provide good grip
 
-![Revised silicone wheels with bearing seats](journal-images/zagitis-231753.png)
+<img width="648" height="363" alt="Screenshot 2026-11-09 231753" src="https://github.com/user-attachments/assets/733ecf8d-0ad7-4e10-a5a5-11152cf37ca8" />
+
 
 # topplates and electronics
 
@@ -60,7 +63,8 @@ This session, I made the top plates and installed the electronics.
 
 The top plates will be made out of carbon fiber but in cad there clear
 
-![Transparent top plates over the battery and electronics](journal-images/zagitis-231641.png)
+<img width="527" height="409" alt="Screenshot 2026-11-09 231641" src="https://github.com/user-attachments/assets/76d8e1b9-8fad-484f-95b8-eaec92e2ecc0" />
+
 
 # chasis
 
@@ -70,9 +74,9 @@ I decided to make the robot wider and shorter. This should make it easier to con
 
 I chose PA12-CF for the drive pods because they need to be stiff and rigid. A softer material could flex and cause the drivetrain to bind or lose efficiency.
 
-![Wider chassis and four-wheel drive layout](journal-images/zagitis-231308.png)
 
-![Close-up of the revised side armor and drive pod](journal-images/zagitis-231317.png)
+<img width="446" height="358" alt="Screenshot 2026-11-09 231317" src="https://github.com/user-attachments/assets/5266007c-536a-4237-ba08-eed609eb5c28" />
+<img width="613" height="504" alt="Screenshot 2026-11-09 231308" src="https://github.com/user-attachments/assets/f2ca1de0-256f-4903-abcf-8c036b10e1d9" />
 
 # more driwe
 
@@ -80,7 +84,7 @@ I chose PA12-CF for the drive pods because they need to be stiff and rigid. A so
 
 This session, I worked on the drive pods. I wanted them to be removable and interchangeable, making maintenance easier
 
-![Removable drive pod with two wheels](journal-images/zagitis-224448.png)
+<img width="636" height="416" alt="Screenshot 2026-11-09 224448" src="https://github.com/user-attachments/assets/04b3eca1-0564-4911-8fc8-7585c0e44ba3" />
 
 # the driwe
 
@@ -96,9 +100,9 @@ I also changed the battery to a Tattu 450mAh 4S 75C 14.8V pack since I already h
 
 In addition, I switched back to a larger weapon motor and changed the weapon to a grinding disk. This should be more effective against metal armor, and since I already have a 70 mm grinding disk, there is no need to order a custom weapon
 
-![Early four-wheel drive layout](journal-images/zagitis-224319.png)
+<img width="647" height="446" alt="Screenshot 2026-11-09 224319" src="https://github.com/user-attachments/assets/cb4cd428-99aa-4993-afb8-ff321b2ff40e" />
 
-![Grinding disk mounted on the weapon arm](journal-images/zagitis-224324.png)
+<img width="640" height="353" alt="Screenshot 2026-11-09 224324" src="https://github.com/user-attachments/assets/02023f1d-b90f-463e-8ddd-4ef500968a5e" />
 
 # ADDISHONS TO THE ARM
 
@@ -108,9 +112,10 @@ I reinforced the arm by adding a connecting spacer, which should improve its str
 
 I also improved the arm limiter by attaching it directly to the arm. This design looks cleaner and should function more reliably.
 
-![Revised arm limiter](journal-images/zagitis-224115.png)
 
-![Connecting spacer between the arm plates](journal-images/zagitis-224119.png)
+
+<img width="501" height="538" alt="Screenshot 2026-11-09 224119" src="https://github.com/user-attachments/assets/40aaacc4-df6c-483c-9404-05f9a8e61f01" />
+<img width="462" height="428" alt="Screenshot 2026-11-09 224115" src="https://github.com/user-attachments/assets/503fb193-88fc-4a75-aaf9-6e86a8c99ee2" />
 
 # screw swich
 
@@ -120,9 +125,8 @@ Instead of buying a screw switch, I designed my own. It uses two M3 heat-set ins
 
 I chose to use a screw switch because it is better suited for combat robots than a traditional rocker switch. Screw switches can handle higher currents and are generally more resistant to impacts, making them more reliable in a combat environment.
 
-![Cross section of the screw switch and threaded inserts](journal-images/zagitis-224031.png)
-
-![Screw switch mounted in the chassis](journal-images/zagitis-224037.png)
+<img width="580" height="413" alt="Screenshot 2026-11-09 224031" src="https://github.com/user-attachments/assets/4e8fa039-9d87-44ac-b9bb-0f7ab29e0101" />
+<img width="327" height="315" alt="Screenshot 2026-11-09 224037" src="https://github.com/user-attachments/assets/b6a66d30-a027-4a65-b8ec-bef1eb6b9bd0" />
 
 # forks
 
@@ -130,9 +134,8 @@ I chose to use a screw switch because it is better suited for combat robots than
 
 I designed several different fork options for the robot. One set is made from steel and has a rounded shape that is better suited for deflecting drum and eggbeater weapons. I also designed normal fork design with weight-reduction pockets, allowing it to be manufactured from steel while still keeping the weight low. steel alows the forks to remain sharper for longer
 
-![Steel fork design with weight-reduction pockets](journal-images/zagitis-223913.png)
-
-![Rounded steel fork option](journal-images/zagitis-223918.png)
+<img width="497" height="483" alt="Screenshot 2026-11-09 223918" src="https://github.com/user-attachments/assets/e13b52d2-b965-4f71-82b0-5d0d1c76a2c5" />
+<img width="502" height="258" alt="Screenshot 2026-11-09 223913" src="https://github.com/user-attachments/assets/bd3634ce-b750-4d94-b8ef-ec280ed3a1fd" />
 
 # changing the driwe
 
@@ -141,10 +144,9 @@ I designed several different fork options for the robot. One set is made from st
 I did some research for my other robot and found that the Just Cuz Robotics Blitz Lite motors were better suited for the drive system. They have better support, a larger output shaft, and more torque due to their larger gear reduction. Since they weigh about the same and cost roughly the same as my previous choice, I decided to use the Blitz Lite motors instead
 
 I also made some changes to the robots armor. I decided to make the main body from nylon because of its rigidity and durability. In addition, I added TPU side armor to help absorb impacts from the sides
+<img width="566" height="350" alt="Screenshot 2026-11-09 223809" src="https://github.com/user-attachments/assets/c218ccc1-1b14-4bf5-9a03-f1ae02735db1" />
+<img width="663" height="602" alt="Screenshot 2026-11-09 223815" src="https://github.com/user-attachments/assets/a0fe9fb3-5006-426e-a28f-87100846857c" />
 
-![Blitz Lite motor fitted in the chassis](journal-images/zagitis-223809.png)
-
-![Chassis with revised drive motors and TPU side armor](journal-images/zagitis-223815.png)
 
 # REENFORCING THE ARM
 
@@ -154,7 +156,8 @@ I was looking at some other hammersaw robots and noticed that many of them use d
 
 This change also allowed me to create a more symmetrical robot and use thicker gears, which should improve the strength and reliability of the weapon system.
 
-![Double-sided weapon mount and arm gears](journal-images/zagitis-223721.png)
+<img width="726" height="422" alt="Screenshot 2026-11-09 223721" src="https://github.com/user-attachments/assets/3cb20037-48ef-43a7-a8a9-a0ea751c4195" />
+
 
 # final tuches
 
@@ -162,9 +165,8 @@ This change also allowed me to create a more symmetrical robot and use thicker g
 
 I added the top plates, screw holes, and chamfers where needed Then I consider the robot finished. Here are some final renders of the completed design.
 
-![Top view showing the plates and mounting screws](journal-images/zagitis-223617.png)
-
-![Angled render of the first completed design](journal-images/zagitis-223622.png)
+<img width="728" height="511" alt="Screenshot 2026-11-09 223622" src="https://github.com/user-attachments/assets/ea65021d-9f68-4bfd-b450-a79de24d0ca8" />
+<img width="659" height="640" alt="Screenshot 2026-11-09 223617" src="https://github.com/user-attachments/assets/16cc21ca-ee50-4ed4-b6ae-4f5ac1a7f10f" />
 
 # forks
 
@@ -176,21 +178,18 @@ I also added a fork in the middle. The idea is that when I drive head-on into an
 
 Finally, I reinforced the fork mounts with fillets to make them stronger and reduce stress concentrations around the joints.
 
-![Three front forks and reinforced mounts](journal-images/zagitis-223525.png)
-
-![Fork pivot and movement stop](journal-images/zagitis-223530.png)
+<img width="687" height="435" alt="Screenshot 2026-11-09 223530" src="https://github.com/user-attachments/assets/b4ea7761-84f1-45d0-84d3-b664c9ce3675" />
+<img width="693" height="433" alt="Screenshot 2026-11-09 223525" src="https://github.com/user-attachments/assets/b94cd203-556f-4f49-b690-a2095f4edc33" />
 
 # wheels
 
 **Time spent:** 1.2h
 
 i decided to make custom silicone wheels to mount the wheels to the motor i am going to use custom aluminum wheel hub atached to a tpu wheel for absorbing hits
+<img width="658" height="450" alt="Screenshot 2026-11-09 223350" src="https://github.com/user-attachments/assets/df028e00-718d-4b5d-9457-8cb5287a645e" />
+<img width="453" height="332" alt="Screenshot 2026-11-09 223345" src="https://github.com/user-attachments/assets/114dc8d3-b7fa-4de7-a507-a7e85f0b4cf4" />
+<img width="738" height="532" alt="Screenshot 2026-11-09 223342" src="https://github.com/user-attachments/assets/1166f288-d7d6-4986-a7fe-4b134f7e0438" />
 
-![Early wheel CAD model](journal-images/zagitis-223342.png)
-
-![Custom wheel hub](journal-images/zagitis-223345.png)
-
-![Silicone wheel on the original drive motor](journal-images/zagitis-223350.png)
 
 # hamersaw
 
@@ -202,33 +201,28 @@ Then I looked at weapon designs from other hammersaws What I saww was that they 
 
 addet this thing to the arm so the weapon does not hit the ground
 
-![Hammersaw arm and ground clearance stop](journal-images/zagitis-223105.png)
+<img width="421" height="485" alt="Screenshot 2026-11-09 223109" src="https://github.com/user-attachments/assets/e7680b33-f753-427b-a528-b7aaa344d9b5" />
+<img width="552" height="501" alt="Screenshot 2026-11-09 223105" src="https://github.com/user-attachments/assets/4460cbda-f072-4e38-ae7e-ff56c3898ccd" />
+<img width="765" height="724" alt="Screenshot 2026-11-09 223114" src="https://github.com/user-attachments/assets/373975a2-125e-435b-aefc-0024dd345302" />
 
-![Weapon assembly side view](journal-images/zagitis-223109.png)
-
-![Weapon blade and mounting plate](journal-images/zagitis-223114.png)
 
 # rear armot mootor guard
 
 **Time spent:** 0.7h
 
 i added rear armor and a guard to stop any think frpm yaming in to the motor
+<img width="333" height="527" alt="Screenshot 2026-11-09 223053" src="https://github.com/user-attachments/assets/53d6a878-b5c3-40c9-91f2-2526e2c4c407" />
+<img width="751" height="472" alt="Screenshot 2026-11-09 223045" src="https://github.com/user-attachments/assets/db755669-fe1f-41c1-bf11-dc4780480c98" />
 
-![Rear armor around the drivetrain](journal-images/zagitis-223045.png)
-
-![Motor guard close-up](journal-images/zagitis-223053.png)
 
 # the arm mecanism
 
 **Time spent:** 1.5h
 
 learned how to make gears and make gear reduction for the arm that is 2.2to 1 then i complethed the arm mecanism!
-
-![Arm mechanism installed in the early chassis](journal-images/zagitis-222625.png)
-
-![Arm reduction gears](journal-images/zagitis-222630.png)
-
-![Arm assembly with reduction gears](journal-images/zagitis-222636.png)
+<img width="701" height="841" alt="Screenshot 2026-11-09 222625" src="https://github.com/user-attachments/assets/3f8d4482-c9ad-45d0-9cab-35109fe0443a" />
+<img width="887" height="656" alt="Screenshot 2026-11-09 222630" src="https://github.com/user-attachments/assets/f45e656f-d4e1-4fb6-86da-81177d694cb5" />
+<img width="847" height="737" alt="Screenshot 2026-11-09 222636" src="https://github.com/user-attachments/assets/46027c20-6ed7-4f27-a3b9-ee8ba229a557" />
 
 # starting to cad the robot
 
@@ -236,7 +230,8 @@ learned how to make gears and make gear reduction for the arm that is 2.2to 1 th
 
 i proseeded first rouf cading Started designing the frame aded forks and mounted the droiwe motors
 
-![Early chassis with forks and mounted drive motors](journal-images/zagitis-222512.png)
+<img width="929" height="708" alt="Screenshot 2026-11-09 222512" src="https://github.com/user-attachments/assets/b95c442b-8e68-4f26-8489-fd459a0d90f5" />
+
 
 # resharching the electronics and puting them in cad
 
@@ -302,13 +297,12 @@ Finding CAD files and creating the missing models took approximately 1.5 hours.
 
 then i started the robots cad proces first step was arange the motors and electronics
 
-Screenshot 2026-06-13 025842 it took several tries but i settled on this beacase everything is very compact
+it took several tries but i settled on this beacase everything is very compact
 
 this took 1h
 
-![Original arm motor CAD model](journal-images/zagitis-222206.png)
-
-![Initial layout of the motors and electronics](journal-images/zagitis-222201.png)
+<img width="614" height="628" alt="Screenshot 2026-11-09 222206" src="https://github.com/user-attachments/assets/366d86a5-29ed-43c0-9efd-d72255ef0045" />
+<img width="672" height="519" alt="Screenshot 2026-11-09 222201" src="https://github.com/user-attachments/assets/41c9ec6f-1e94-4100-9ddc-7e034c75a7bc" />
 
 ## Undated notes
 
